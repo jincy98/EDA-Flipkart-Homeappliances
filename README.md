@@ -21,4 +21,13 @@ This project involves scraping product data of washing machines from Flipkart, c
 
 ## 🚀 How to Run
 1. Clone this repo
-2. Install dependencies:  
+2. Install dependencies:
+3. Open `webscrapping-assignment.ipynb` to view the full data analysis
+
+
+## 📌 Note
+This project is for educational and portfolio purposes. Data scraping complies with Flipkart's public site structure 
+
+---
+
+Feel free to give this repo a ⭐ if you find it useful! 
