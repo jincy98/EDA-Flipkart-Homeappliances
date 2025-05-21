@@ -31,4 +31,4 @@ This project is for educational and portfolio purposes. Data scraping complies w
 ---
 
 Feel free to give this repo a ⭐ if you find it useful! 
-Initial commit - Flipkart washing machine analysis
+
