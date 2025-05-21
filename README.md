@@ -1,4 +1,4 @@
-
+# From Unstructured Data to Structured meaningful data
 # Flipkart Washing Machine Data Analysis 🧺📊
 
 This project involves scraping product data of washing machines from Flipkart, cleaning and preparing the data, and conducting an exploratory data analysis (EDA) using visualizations.
